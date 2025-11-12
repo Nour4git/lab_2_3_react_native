@@ -10,7 +10,7 @@ A secure note-taking application with user authentication for personalized notes
 - CRUD operations for notes (Create, Read, Update, Delete)
 - User-specific data isolation
 - Simple and modern interface
-- Cross-platform support (Android, Desktop, iOS)
+- Cross-platform support (Android, iOS)
 
 # Technologies
 
@@ -34,5 +34,6 @@ APPWRITE_COLLECTION_ID=notes
 
 # Run 
 npx Expo Start
+
 
 
